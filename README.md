@@ -2,7 +2,7 @@
 
 ## 📦 Tech Stack
 
-- **React** (v17 or compatible)
+- **React** (v17)
 - **Ant Design** for UI components
 - **json-server** to serve `db.json` as a mock backend
 - **Node.js** 16.14.0 (via NVM)
@@ -35,5 +35,5 @@ npm start
 
 npm install -g json-server
 
-json-server --watch db.json --port 3001
+json-server --watch db.json --port 4000
 
